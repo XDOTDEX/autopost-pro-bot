@@ -17,7 +17,8 @@
 - 🔗 **Your account, your groups** — connect your own Telegram account and post as yourself into the groups *you* are a member of. No need to add any bot to the group.
 - 🗂️ **Group picker** — the bot lists your groups; choose up to 10 (Free) or 100 (Premium) per post
 - ✍️ **Rich posts** — text, photos, videos and link buttons
-- ⏰ **Scheduling** — one-time posts at any date & time · repeating daily/weekly posts
+- ⏰ **Scheduling** — one-time posts at any date & time · repeat daily/weekly, or **every 2, 5, 10, 30 minutes, every hour, or your own custom interval — unlimited repeats**
+- 🎁 **3-day free Premium trial** — every new user gets all Premium features free for the first 3 days
 - 🛡️ **Flood-safe sending** — posts are paced with automatic delays between groups, keeping your account safe
 - 🤝 **Refer & Earn** — invite friends, earn **$XOX**, convert to Premium (50 $XOX = 10 days · 100 $XOX = 30 days)
 - 🎁 **Free Premium** — finish in the weekly Top 3 on [Bed Bounce](https://t.me/BedBouncebot) and claim with `/freeallservice`
@@ -26,13 +27,13 @@
 
 | Plan | Telegram accounts | Groups per post | Active schedules | Repeat posts | Media |
 |---|---|---|---|---|---|
-| **Free** | 3 | 10 | 5 | ✅ Daily / weekly | Text + photo |
-| **Premium** — 100 Stars / 3 months | 15 | 100 | 100 | ✅ Daily / weekly | Text + photo + video + buttons |
+| **Free** | 3 | 10 | 5 | ✅ Every few min / daily / weekly | Text + photo |
+| **Premium** — 100 Stars / 3 months | 15 | 100 | 100 | ✅ Every few min / daily / weekly | Text + photo + video + buttons |
 
 ## 🚀 How to use
 
 1. Join the channel: [@btcmoonx](https://t.me/btcmoonx) *(required — leaving locks the bot, rejoining unlocks it, your data is kept)*
-2. Open [@AutoPostxProbot](https://t.me/AutoPostxProbot) and send `/start`
+2. Open [@AutoPostxProbot](https://t.me/AutoPostxProbot) and send `/start` — new users instantly get **3 days of Premium free**
 3. Connect your Telegram account with the secure login (phone + code)
 4. Pick your groups, write your post, set the time — done, it posts itself
 
