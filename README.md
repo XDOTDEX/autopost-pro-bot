@@ -26,8 +26,8 @@
 
 | Plan | Telegram accounts | Groups per post | Active schedules | Repeat posts | Media |
 |---|---|---|---|---|---|
-| **Free** | 1 | 5 | 3 | ❌ | Text + photo |
-| **Premium** — 100 Stars / 3 months | 3 | 100 | 100 | ✅ Daily / weekly | Text + photo + video + buttons |
+| **Free** | 3 | 5 | 3 | ❌ | Text + photo |
+| **Premium** — 100 Stars / 3 months | 15 | 100 | 100 | ✅ Daily / weekly | Text + photo + video + buttons |
 
 ## 🚀 How to use
 
