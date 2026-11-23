@@ -15,13 +15,22 @@
 ## ✨ Features
 
 - 🔗 **Your account, your groups** — connect your own Telegram account and post as yourself into the groups *you* are a member of. No need to add any bot to the group.
-- 🗂️ **Group picker** — the bot lists your groups; choose up to 10 (Free) or 100 (Premium) per post
+- 🗂️ **Group picker** — the bot lists your groups, with buy/sell-type groups shown first; choose up to 10 (Free) or 100 (Premium) per post
 - ✍️ **Rich posts** — text, photos, videos and link buttons
 - ⏰ **Scheduling** — one-time posts at any date & time · repeat daily/weekly, or **every 2, 5, 10, 30 minutes, every hour, or your own custom interval — unlimited repeats**
 - 🎁 **3-day free Premium trial** — every new user gets all Premium features free for the first 3 days
 - 🛡️ **Flood-safe sending** — posts are paced with automatic delays between groups, keeping your account safe
 - 🤝 **Refer & Earn** — invite friends, earn **$XOX**, convert to Premium (50 $XOX = 10 days · 100 $XOX = 30 days)
 - 🎁 **Free Premium** — finish in the weekly Top 3 on [Bed Bounce](https://t.me/BedBouncebot) and claim with `/freeallservice`
+
+## 📱 Mini App
+
+Prefer tapping over typing? Open AutoPost Pro's mini app right inside Telegram:
+
+- 🎛️ **Full post control** — for every post: edit its target groups, change the send time or repeat setting, pause/resume, or delete it
+- 🖼️ **Photo posts in the app** — upload a photo directly in the mini app and add your caption text and link buttons
+- 🔄 **One shared post list** — posts created in the bot chat appear in the mini app and vice versa; create in one place, control from both
+- 🛒 **Smart group picker** — buy/sell-type groups are listed first when you pick target groups, in the bot and the app alike
 
 ## 📊 Plans
 
